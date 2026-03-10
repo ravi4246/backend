@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266870333167",
+    "project_id": "siddha-ai-86b04",
+    "storage_bucket": "siddha-ai-86b04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266870333167:android:024157eefe7632c56a851a",
+        "android_client_info": {
+          "package_name": "com.simats.siddha.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7HzkBk2Q4RHZAdYF9SGP7U3LXWKAFAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
